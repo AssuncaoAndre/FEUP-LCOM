@@ -1,0 +1,4 @@
+<map id="pontuacao" name="pontuacao">
+<area shape="rect" id="node1" title="Used for the determination of user&#39;s score." alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node2" href="$group__makecodes.html#ga3caa650c7a5b8add315e6d8e0c708848" title="Used to determine the score of a User based on each letter points on Scrabble." alt="" coords="136,5,233,32"/>
+</map>

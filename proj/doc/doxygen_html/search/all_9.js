@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['i8042_66',['i8042',['../group__i8042.html',1,'']]],
+  ['i8042_2eh_67',['i8042.h',['../i8042_8h.html',1,'']]],
+  ['i8254_68',['i8254',['../group__i8254.html',1,'']]],
+  ['i8254_2eh_69',['i8254.h',['../i8254_8h.html',1,'']]],
+  ['i_5fo_5fbuffer_70',['I_O_BUFFER',['../group__i8042.html#gabbd81e763ceb065fd9924b96b5ef6457',1,'i8042.h']]],
+  ['ibf_71',['IBF',['../group__i8042.html#ga3c48b10907056351582baf9f6478598e',1,'i8042.h']]],
+  ['im_72',['im',['../group__makecodes.html#ga6b0bbb5b2111ac7741063db5063755e3',1,'makecodes.h']]],
+  ['in_5fbuf_73',['IN_BUF',['../group__i8042.html#ga783be5698cf07b1daaf126ef89c19063',1,'i8042.h']]],
+  ['indexed_74',['INDEXED',['../group__video.html#gae3d2e350b27d1f320bd01a528e795706',1,'video.h']]],
+  ['inh_75',['INH',['../group__i8042.html#ga03f542f1e0e2ba512c4ed189decfee3d',1,'i8042.h']]],
+  ['inicio_76',['inicio',['../structlista.html#abf27655afeb33ece3637153953f32776',1,'lista']]],
+  ['init_77',['INIT',['../group__mouse.html#ggadc6e5733fc3c22f0a7b2914188c49c90a0cb1b2c6a7db1f1084886c98909a3f36',1,'mouse.h']]],
+  ['init_5fcmd_78',['INIT_CMD',['../group__i8042.html#gae4eabd026e666b08fbd5d6c6f9499d45',1,'i8042.h']]],
+  ['ipont_79',['ipont',['../group__makecodes.html#gaf258210f0ec522fc04c3e30b906824c9',1,'makecodes.h']]],
+  ['irq_5fkb_80',['IRQ_KB',['../group__i8042.html#ga25a52782ae555adb83e5498730cfd619',1,'IRQ_KB():&#160;i8042.h'],['../group__i8042.html#ga25a52782ae555adb83e5498730cfd619',1,'IRQ_KB():&#160;i8042.h']]],
+  ['irq_5fmouse_81',['IRQ_MOUSE',['../group__i8042.html#ga32ffe73ffc337fbec467ea02948591af',1,'IRQ_MOUSE():&#160;i8042.h'],['../video_8c.html#a32ffe73ffc337fbec467ea02948591af',1,'IRQ_MOUSE():&#160;video.c']]],
+  ['irq_5ftimer_82',['IRQ_TIMER',['../group__i8254.html#ga85fc66e3edd4ed6a4db6e455feaba8ca',1,'i8254.h']]]
+];

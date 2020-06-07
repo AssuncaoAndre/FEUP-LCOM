@@ -1,0 +1,4 @@
+<map id="forca_draw" name="forca_draw">
+<area shape="rect" id="node1" title="Draws the states of the Hangman." alt="" coords="163,5,247,32"/>
+<area shape="rect" id="node2" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main function of the project." alt="" coords="5,5,115,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="menu_init" name="menu_init">
+<area shape="rect" id="node1" title="Displays the main menu with its funcionalities." alt="" coords="5,31,84,57"/>
+<area shape="rect" id="node2" href="$group__mouse.html#ga74677050b359055f52ecad20066dd30e" title="Writes a command to the mouse (using the KBC controller)" alt="" coords="166,5,243,32"/>
+<area shape="rect" id="node3" href="$group__mouse.html#ga144360afd425f101b0f73acc53ebfbf0" title="Subscribes Mouse Interrupts." alt="" coords="132,56,277,83"/>
+</map>

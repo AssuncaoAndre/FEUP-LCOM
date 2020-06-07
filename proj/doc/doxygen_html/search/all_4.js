@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['data_23',['data',['../menu_8c.html#acf19368eb385467f63a64c91a6b8b4ee',1,'data():&#160;proj.c'],['../proj_8c.html#acf19368eb385467f63a64c91a6b8b4ee',1,'data():&#160;proj.c'],['../video_8c.html#acf19368eb385467f63a64c91a6b8b4ee',1,'data():&#160;proj.c']]],
+  ['day_24',['day',['../struct__l__elemento.html#a897ed87b95b7a37afeeb935ca0b2366b',1,'_l_elemento']]],
+  ['def_5ftemp_25',['DEF_TEMP',['../proj_8c.html#a851f5027f3ded5455c1308f2d86664a2',1,'proj.c']]],
+  ['default_5ffreq_26',['DEFAULT_FREQ',['../group__i8254.html#gaa8f3d6b1602b6265c5d8e1826382e9a4',1,'i8254.h']]],
+  ['delay_5fus_27',['DELAY_US',['../group__i8042.html#ga1a522aa19bcb695a9df30032a893bee3',1,'i8042.h']]],
+  ['dif_28',['dif',['../struct__l__elemento.html#abf6ce1ba66a1434c249405751173f650',1,'_l_elemento']]],
+  ['diff_29',['diff',['../menu_8c.html#a65f3a8178e1f997a7a19a988bb0f4e1a',1,'diff():&#160;proj.c'],['../proj_8c.html#a65f3a8178e1f997a7a19a988bb0f4e1a',1,'diff():&#160;proj.c']]],
+  ['dificil_30',['dificil',['../group__makecodes.html#gab0ed1f4692244373c77fd165aa6cac34',1,'makecodes.h']]],
+  ['dificil_2eh_31',['dificil.h',['../dificil_8h.html',1,'']]],
+  ['dificuldade_32',['dificuldade',['../group__menu.html#ga93d8ba5f0fd27dbdede93c4df24b460e',1,'menu.h']]],
+  ['dificuldade_2eh_33',['dificuldade.h',['../dificuldade_8h.html',1,'']]],
+  ['dificuldade_5fmenu_34',['dificuldade_menu',['../group__menu.html#gadd2fa7e62bdc22eb4799c087673e5082',1,'dificuldade_menu():&#160;menu.c'],['../group__menu.html#gadd2fa7e62bdc22eb4799c087673e5082',1,'dificuldade_menu():&#160;menu.c']]],
+  ['disable_5fdr_35',['DISABLE_DR',['../group__i8042.html#ga99114a41bdfc03944543c5b4bca62729',1,'i8042.h']]],
+  ['dm_36',['dm',['../group__makecodes.html#ga79ff00c9948d4542f3a68764cbe7070d',1,'makecodes.h']]],
+  ['doispontos_2eh_37',['doispontos.h',['../doispontos_8h.html',1,'']]],
+  ['down_5fright_38',['DOWN_RIGHT',['../group__mouse.html#ggadc6e5733fc3c22f0a7b2914188c49c90a2877ba4eb53c0dec12f0363cfca35d0e',1,'mouse.h']]],
+  ['dpont_39',['dpont',['../group__makecodes.html#gafe6af45a8cc6bcfbbc1e8f170dec8450',1,'makecodes.h']]]
+];

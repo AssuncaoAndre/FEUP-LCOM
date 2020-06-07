@@ -1,0 +1,5 @@
+<map id="mouse_disable" name="mouse_disable">
+<area shape="rect" id="node1" title="Disables Mouse." alt="" coords="216,42,325,69"/>
+<area shape="rect" id="node2" href="$group__mouse.html#ga17bcf4b2536cf13c7f3937c7d0aa7bc1" title="Disables stream mode data reporting." alt="" coords="16,5,157,47"/>
+<area shape="rect" id="node3" href="$group__mouse.html#gab70f0bd710edb4b5e9312c3ce2b4777c" title="Enables stream mode data reporting." alt="" coords="5,71,168,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="char_to_pont" name="char_to_pont">
+<area shape="rect" id="node1" title="Used to determine the score of a User based on each letter points on Scrabble." alt="" coords="293,5,391,32"/>
+<area shape="rect" id="node2" href="$group__proj.html#ga60c483644eae6742e600ebc4d88de703" title="Used for the determination of user&#39;s score." alt="" coords="163,5,245,32"/>
+<area shape="rect" id="node3" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main function of the project." alt="" coords="5,5,115,32"/>
+</map>

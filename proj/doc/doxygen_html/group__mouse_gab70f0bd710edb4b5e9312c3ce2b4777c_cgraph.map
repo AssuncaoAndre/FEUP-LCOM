@@ -1,0 +1,6 @@
+<map id="mouse_enable_data_rep" name="mouse_enable_data_rep">
+<area shape="rect" id="node1" title="Enables stream mode data reporting." alt="" coords="5,21,168,47"/>
+<area shape="rect" id="node2" href="$group__mouse.html#ga74677050b359055f52ecad20066dd30e" title="Writes a command to the mouse (using the KBC controller)" alt="" coords="373,21,451,47"/>
+<area shape="rect" id="node3" href="$group__mouse.html#ga4b21609cf20aa6689e73976702f26bce" title="Disables Mouse." alt="" coords="216,21,325,47"/>
+<area shape="rect" id="node4" href="$group__mouse.html#gaa9d6e472ee03d2d391174fe3fe5a4d7f" title="Enables Mouse." alt="" coords="217,71,324,98"/>
+</map>

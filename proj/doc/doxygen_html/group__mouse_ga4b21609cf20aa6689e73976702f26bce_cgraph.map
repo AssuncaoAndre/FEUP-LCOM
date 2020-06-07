@@ -1,0 +1,4 @@
+<map id="mouse_disable" name="mouse_disable">
+<area shape="rect" id="node1" title="Disables Mouse." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node2" href="$group__mouse.html#ga74677050b359055f52ecad20066dd30e" title="Writes a command to the mouse (using the KBC controller)" alt="" coords="163,5,240,32"/>
+</map>

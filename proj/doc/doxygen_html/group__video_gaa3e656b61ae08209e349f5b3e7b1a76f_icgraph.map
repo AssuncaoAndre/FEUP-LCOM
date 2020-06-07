@@ -1,0 +1,5 @@
+<map id="get_mode_info" name="get_mode_info">
+<area shape="rect" id="node1" title="Returns information on the input VBE mode, including screen dimensions, color depth and VRAM physical..." alt="" coords="285,5,392,32"/>
+<area shape="rect" id="node2" href="$group__video.html#gacf777d8344d18301dc8c93fed15070e6" title="Initializes the video module in graphics mode." alt="" coords="163,5,237,32"/>
+<area shape="rect" id="node3" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main function of the project." alt="" coords="5,5,115,32"/>
+</map>

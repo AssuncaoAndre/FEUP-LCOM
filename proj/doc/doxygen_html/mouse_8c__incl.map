@@ -1,0 +1,9 @@
+<map id="mouse.c" name="mouse.c">
+<area shape="rect" id="node1" title=" " alt="" coords="161,5,233,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,155,84,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="165,155,231,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="329,155,390,181"/>
+<area shape="rect" id="node5" href="$i8042_8h.html" title=" " alt="" coords="199,80,263,107"/>
+<area shape="rect" id="node6" href="$i8254_8h.html" title=" " alt="" coords="61,80,125,107"/>
+<area shape="rect" id="node7" href="$mouse_8h.html" title=" " alt="" coords="287,80,359,107"/>
+</map>
