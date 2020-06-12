@@ -1,0 +1,5 @@
+proj/doc/doxygen_html/* linguist-vendored
+proj/Doxyfile
+proj/Report.pdf
+proj/src/small/*
+proj/src/buttons/*
