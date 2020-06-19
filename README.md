@@ -25,6 +25,7 @@ Labs e Projeto de LCOM
 
 *Report*: https://github.com/fuscati/FEUP-LCOM/blob/master/proj/doc/Report.pdf
 
+
 **Final grade**: 18 
 
 **Note**: this grades are slightly inflated because my partner did nothing and as a result I got better grades than her and better grades than the labs and project grades themselfs
