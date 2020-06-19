@@ -4,8 +4,8 @@ Labs e Projeto de LCOM
 ## GRADES
 
 ### Lab2
->*Grade*: 100/100 <br>
->*I/O device*: Timer <br>
+>***Grade***: 100/100 <br>
+>***I/O device***: Timer <br>
 
 ### Lab3
 >***Grade***: not evaluated due to a misunderstanding with the teachers caused by the delivery process (probably at least 90/100) <br>
