@@ -22,6 +22,7 @@ Labs e Projeto de LCOM
 ### Project
 *Grade*: 16.43/20
 *I/O device*: All of the above and RTC (Real Time Clock)
+
 *Report*: https://github.com/fuscati/FEUP-LCOM/blob/master/proj/doc/Report.pdf
 
 **Final grade**: 18 
