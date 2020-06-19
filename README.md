@@ -28,4 +28,4 @@ Labs e Projeto de LCOM
 ### Final grade: 18 
 
 **Note**: this grades are slightly inflated because my partner did nothing and as a result I got better grades than her. <br>
-***Warning***: Use this code at your own risk. LCOM evaluation is very strict in copying and plagearism.
+***Warning***: Use this code at your own risk. LCOM evaluation is very strict in terms of copying and plagearism.
